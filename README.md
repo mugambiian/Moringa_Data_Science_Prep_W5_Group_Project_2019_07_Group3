@@ -6,14 +6,14 @@ Moringa_Data_Science_Prep_W5_Group_Project_2019_07_Group3
  
 3rd June 2020
 Contributors  
-Ann Mungai
-Anthony Mwaura
-Martha Cherono Kibet
-Michael Gichuki
-Samuel Abonyo
-Stacey Samoe
-Ted Samuel Askoye
-Ian Mugambi
+Ann Mungai, 
+Anthony Mwaura, 
+Martha Cherono Kibet, 
+Michael Gichuki, 
+Samuel Abonyo, 
+Stacey Samoe, 
+Ted Samuel Askoye, 
+Ian Mugambi.
 
 Description
 Analysis of Horticultrual exports for the World Food Organization to draw insights from exports of  Flowers,Fruits and Vegetables in 2015.
